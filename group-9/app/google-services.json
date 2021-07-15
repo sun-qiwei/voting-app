@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "992261451628",
+    "firebase_url": "https://fall-group9.firebaseio.com",
+    "project_id": "fall-group9",
+    "storage_bucket": "fall-group9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992261451628:android:a8f0031cccd8fa61f3cd49",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992261451628-drba5tr3pegpvd8g4o3bqui1ehuq89pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "b4f14af8db852f259928fdc4fef8b6b2b7d36018"
+          }
+        },
+        {
+          "client_id": "992261451628-s5upg5fi4il9ot8l0m41cr65k52krg9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "b5933fc240a47b0ea3de613186d851aa8372fbc9"
+          }
+        },
+        {
+          "client_id": "992261451628-ffdl21l0qp28bapfgjn3jg7uilbq6iae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOjJTWVMpMLHxLWvI4o7ocY9dq_81TUio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992261451628-ffdl21l0qp28bapfgjn3jg7uilbq6iae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
